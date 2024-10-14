@@ -21,8 +21,8 @@ Execute the C Program for the desired output.
 # PROGRAM:
 # Developed by
 ```
-Name : SANJAI S
-Reg No : 212223230186
+Name : SANJAY V
+Reg No : 212223230188
 ```
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
